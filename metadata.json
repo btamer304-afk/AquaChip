@@ -1,0 +1,6 @@
+{
+  "name": "AquaMind AI",
+  "description": "AquaMind AI is a comprehensive Farm Operating System integrating IoT telemetry, physical soil modeling, custom digital twins, and a server-side AI Copilot for predictive irrigation and agronomic management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
